@@ -1,0 +1,50 @@
+
+
+.p1{
+    color: rgb(57, 146, 5);
+    font-size: xx-large;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.d1{
+    background-color: rgb(152,188,116);
+}
+
+#poz1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 400px;
+}
+
+.body
+{
+    background-color: rgba(230,238,224,255);
+    font-size: xx-large;
+}
+
+.titluri{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: rgba(84, 100, 76);
+}
+
+#poz3{
+
+    height:1000px;
+    width: 500px;
+}
+
+.parag{
+    font-size: 25px;
+    font-family: Calibri;
+}
+
+#home{
+    height: 100px;
+    width: 120px;
+}
